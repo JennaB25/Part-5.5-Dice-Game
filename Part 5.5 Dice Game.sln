@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 5.5 Dice Game", "Part 5.5 Dice Game\Part 5.5 Dice Game.csproj", "{19C7E30D-4386-418D-AE21-3068E43165B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C7E30D-4386-418D-AE21-3068E43165B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C7E30D-4386-418D-AE21-3068E43165B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C7E30D-4386-418D-AE21-3068E43165B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C7E30D-4386-418D-AE21-3068E43165B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D927547B-62EC-47CB-8C7E-D9908F70D8CC}
+	EndGlobalSection
+EndGlobal
