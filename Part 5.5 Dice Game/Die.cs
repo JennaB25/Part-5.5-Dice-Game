@@ -77,5 +77,9 @@ namespace Part_5._5_Dice_Game
                 Console.WriteLine("└─────────┘");
             }
         }
+        public bool Equals(Die die)
+        {
+            return this._roll == die.Roll;
+        }
     }
 }
